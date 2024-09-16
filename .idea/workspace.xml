@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4841f6bc-b11b-42a6-9a66-ae56dde9b058" name="Changes" comment="atualização de commit. Novas classes, já bricando com funções bem simples e">
+      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/ArithmeticMinorAndMajor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/ComparingIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/DisplayingAsterisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticMinorAndMajorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DisplayingAsterisksTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RonaldHiedley&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RonaldHiedley/Java&quot;,
+    &quot;accountId&quot;: &quot;23c0d7ca-01b5-4ad5-b399-484c37224c27&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kzRw5ZcFApcHKXf2K2AExKMS3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Arithmetic.executor": "Run",
+    "Application.ArithmeticMinorAndMajor.executor": "Run",
+    "Application.ArithmeticMinorAndMajorTest.executor": "Run",
+    "Application.ComparingIntegers.executor": "Run",
+    "Application.Comparison.executor": "Run",
+    "Application.Constructors.executor": "Run",
+    "Application.DisplayingAsterisks.executor": "Run",
+    "Application.DisplayingAsterisksTest.executor": "Run",
+    "Application.Felipe.executor": "Run",
+    "Application.HelloWord.executor": "Run",
+    "Application.Objects.executor": "Run",
+    "Application.addition.executor": "Debug",
+    "Application.exercicio2.executor": "Run",
+    "Application.exercicio21.executor": "Run",
+    "Application.instructions.executor": "Run",
+    "Application.sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ronald/Projects/spring/first-spring-app",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ronald\IdeaProjects\java\src\main\java" />
+      <recent name="C:\Users\Ronald\IdeaProjects\java\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4841f6bc-b11b-42a6-9a66-ae56dde9b058" name="Changes" comment="" />
+      <created>1724284658960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724284658960</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit to GitHub of 2024!!">
+      <option name="closed" value="true" />
+      <created>1724705388761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724705388761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit to GitHub of 2024!!">
+      <option name="closed" value="true" />
+      <created>1725650817142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725650817142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit to GitHub of 2024!!" />
+    <MESSAGE value="Commit de 06/09/2024 continuação de alguns testes e implementações pessoais, nada de mais, basicamente só estudo." />
+    <MESSAGE value="meu primeiro commit que eu errei na messagem! atualizão de alguns métodos e implementações mas coisa bem basica mesmo. Basicamente estudo!" />
+    <MESSAGE value="meu primeiro commit que eu errei na messagem! atualizão de alguns métodos e implementações mas coisa bem basica mesmo. Basicamente estudo!" />
+    <option name="LAST_COMMIT_MESSAGE" value="meu primeiro commit que eu errei na messagem! atualizão de alguns métodos e implementações mas coisa bem basica mesmo. Basicamente estudo!" />
+  </component>
+</project>
