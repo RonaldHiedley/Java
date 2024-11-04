@@ -1,4 +1,4 @@
-package estudos;
+package estudos.cap1a2;
 
 import java.util.Scanner;
 

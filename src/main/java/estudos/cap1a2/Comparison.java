@@ -1,6 +1,5 @@
-package estudos;
+package estudos.cap1a2;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Comparison {

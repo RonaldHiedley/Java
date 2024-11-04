@@ -1,6 +1,4 @@
-package estudos;
-
-import java.nio.file.attribute.BasicFileAttributes;
+package estudos.cap1a2;
 
 public class DisplayingAsterisks {
     public static void main(String[] args) {

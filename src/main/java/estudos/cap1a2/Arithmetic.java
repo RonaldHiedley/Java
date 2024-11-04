@@ -1,8 +1,9 @@
-package estudos;
-
-import org.w3c.dom.ls.LSOutput;
+package estudos.cap1a2;
 
 import java.util.Scanner;
+
+//Escreva um aplicativo que solicite ao usuário inserir dois inteiros, obtenha dele esses números e imprima sua soma, produto,
+//diferença e quociente (divisão). Utilize as técnicas mostradas na Figura 2.7.
 
 public class Arithmetic {
     private static Scanner input = new Scanner(System.in);

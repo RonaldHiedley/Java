@@ -1,4 +1,4 @@
-package estudos;
+package estudos.cap1a2;
         public class HelloWord {
             public static void main(String[] args) {
                 System.out.println("Hello, Ronald the emperor!");

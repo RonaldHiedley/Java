@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4841f6bc-b11b-42a6-9a66-ae56dde9b058" name="Changes" comment="atualização de commit. Novas classes, já bricando com funções bem simples e">
-      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/ArithmeticMinorAndMajor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/ComparingIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/DisplayingAsterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticMinorAndMajorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DisplayingAsterisksTest.java" afterDir="false" />
+    <list default="true" id="4841f6bc-b11b-42a6-9a66-ae56dde9b058" name="Changes" comment="atualização de commit. Novas classes, já bricando com funções bem simples e testes.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/ImparOuPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/InteirosMaioresMenores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/Multiplos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/ArithmeticMinorAndMajor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/ArithmeticMinorAndMajor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/ComparingIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/ComparingIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/Comparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/DisplayingAsterisks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/DisplayingAsterisks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/HelloWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/HelloWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estudos/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estudos/cap1a2/sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +71,9 @@
     "Application.DisplayingAsterisksTest.executor": "Run",
     "Application.Felipe.executor": "Run",
     "Application.HelloWord.executor": "Run",
+    "Application.ImparOuPar.executor": "Run",
+    "Application.InteirosMaioresMenores.executor": "Run",
+    "Application.Multiplos.executor": "Run",
     "Application.Objects.executor": "Run",
     "Application.addition.executor": "Debug",
     "Application.exercicio2.executor": "Run",
@@ -73,7 +84,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ronald/Projects/spring/first-spring-app",
+    "last_opened_file_path": "C:/Users/Ronald/Documents/estudos/java/src/main/java/estudos/cap1a2",
     "settings.editor.selected.configurable": "preferences.keymap"
   },
   "keyToStringList": {
@@ -83,6 +94,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ronald\Documents\estudos\java\src\main\java\estudos\cap1a2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ronald\IdeaProjects\java\src\main\java" />
       <recent name="C:\Users\Ronald\IdeaProjects\java\src" />
@@ -113,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725650817142</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="atualização de commit. Novas classes, já bricando com funções bem simples e testes.">
+      <option name="closed" value="true" />
+      <created>1726455722658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726455722658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +166,7 @@
     <MESSAGE value="Commit de 06/09/2024 continuação de alguns testes e implementações pessoais, nada de mais, basicamente só estudo." />
     <MESSAGE value="meu primeiro commit que eu errei na messagem! atualizão de alguns métodos e implementações mas coisa bem basica mesmo. Basicamente estudo!" />
     <MESSAGE value="meu primeiro commit que eu errei na messagem! atualizão de alguns métodos e implementações mas coisa bem basica mesmo. Basicamente estudo!" />
-    <option name="LAST_COMMIT_MESSAGE" value="meu primeiro commit que eu errei na messagem! atualizão de alguns métodos e implementações mas coisa bem basica mesmo. Basicamente estudo!" />
+    <MESSAGE value="atualização de commit. Novas classes, já bricando com funções bem simples e testes." />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização de commit. Novas classes, já bricando com funções bem simples e testes." />
   </component>
 </project>
